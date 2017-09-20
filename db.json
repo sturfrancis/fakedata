@@ -72,8 +72,8 @@
       "displayDate": "2017-09-09T22:50:39+00:00",
       "startDate": "2017-09-12T22:50:39+00:00",
       "endDate": "2017-09-13T22:50:39+00:00",
-      "startCountdown": false,
-      "endCountdown": false,
+      "startCountdown": true,
+      "endCountdown": true,
       "label": "Message",
       "barcode": "",
       "callToActionURL": ""
